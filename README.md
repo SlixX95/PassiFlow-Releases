@@ -4,7 +4,7 @@ Public portable build and Velopack update feed artifacts for PassiFlow.
 
 The source repository stays private. This repository contains only generated release artifacts.
 
-Current Windows version: 0.1.13
+Current Windows version: 0.1.14
 
 Windows feed URL:
 
