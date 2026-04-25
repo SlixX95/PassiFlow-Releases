@@ -2,7 +2,7 @@
 
 Public portable Windows build and Velopack update feed files.
 
-Current version: 0.1.36
+Current version: 0.1.38
 
 Update feed URL:
 
