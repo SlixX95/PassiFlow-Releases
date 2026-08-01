@@ -1,11 +1,5 @@
 # PassiFlow Releases
 
-Public portable build and Velopack update feed artifacts for PassiFlow.
+Public release assets for the PassiFlow Electron desktop application.
 
-The source repository stays private. This repository contains only generated release artifacts.
-
-Current Windows version: 0.1.70
-
-Windows feed URL:
-
-https://raw.githubusercontent.com/SlixX95/PassiFlow-Releases/main/win
+The source repository stays private. Electron builder and the signed update service use this repository for platform-specific release assets.
